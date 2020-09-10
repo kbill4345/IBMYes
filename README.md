@@ -1,5 +1,5 @@
-# [星际云网络加速-注册即送50G免费流量](www.xjycloud.xyz)
-# [星云网络加速](www.xjycloud.pw)
+# [星际云网络加速-注册即送50G免费流量](https://www.xjycloud.xyz)
+# [星云网络加速](https://www.xjycloud.pw)
 
 # IBMYes
 请合理使用本公用VPS，建议仅作为备用节点若追求4K或高清的人建议合理避让远离，或其他开发之用例如telegram-bot\python等的开发！
